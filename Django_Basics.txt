@@ -1,0 +1,23 @@
+go to project folder
+
+source bin/activate
+
+now go to the django mainhub folder (where u see manage.py file)
+
+## Start a new app ###
+
+python manage.py startapp sampleapp   
+
+
+main things
+
+settings.py (where you add apps)
+
+urls.py (where you define urls)
+
+then go to app
+
+in app open views.py
+
+now in this do the functionality like displaying msgs etc.
+
